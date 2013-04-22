@@ -5,7 +5,7 @@ How to integrate osCommerce with 2Checkout
 
 ### osCommerce Settings:
 
-1. Download or clone git@github.com:craigchristenson/loaded-2checkout.git
+1. Download or clone git@github.com:craigchristenson/creloaded-2checkout.git
 2. Upload the files in the **catalog** directory to your Loaded Commerce directory
 3. Sign in to your Loaded Commerce admin
 4. Click **Modules**
