@@ -1,11 +1,11 @@
 ### _[Signup free with 2Checkout and start selling!](https://www.2checkout.com/referral?r=git2co)_
 
-How to integrate osCommerce with 2Checkout
+How to integrate Loaded Commerce 6.x with 2Checkout
 -------------------------------------------
 
-### osCommerce Settings:
+### Loaded Commerce Settings:
 
-1. Download or clone git@github.com:craigchristenson/creloaded-2checkout.git
+1. Download or clone https://github.com/craigchristenson/creloaded-2checkout.git
 2. Upload the files in the **catalog** directory to your Loaded Commerce directory
 3. Sign in to your Loaded Commerce admin
 4. Click **Modules**
@@ -20,7 +20,7 @@ How to integrate osCommerce with 2Checkout
 1. Sign in to your 2Checkout account
 2. Click the **Account** tab and **Site Management** subcategory
 3. Under **Direct Return** select **Given Links Back to my Website**
-4. Under **Secret Word** enter your Secret Word (Must be the same value entered in your osCommerce admin.)
+4. Under **Secret Word** enter your Secret Word (Must be the same value entered in your Loaded Commerce admin.)
 5. Click **Save Changes**
 
 
